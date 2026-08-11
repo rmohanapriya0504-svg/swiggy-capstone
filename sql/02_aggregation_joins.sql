@@ -1,4 +1,4 @@
--- INNER JOIN + GROUP BY + HAVING
+-- INNER JOIN
 
 SELECT
     r.cuisine,
