@@ -1,15 +1,12 @@
 Swiggy Cuisine Performance Diagnostic
 
 Project Overview
-
 -- This project analyzes Swiggy cuisine revenue performance using SQLite,
 Excel, and Tableau Public. The same dataset is used across SQL,
 spreadsheet analysis, and Tableau to compare cuisine revenue against
 monthly targets.
 
 Project Files
---## Project Files
-
 - [generate_data.py]-- generate_data.py - Python script used to generate the SQLite database.
 - [swiggy_capstone.db]-- swiggy_capstone.db - SQLite database.
 - [verify.sql]-- verify.sql - Database verification queries.
@@ -36,10 +33,12 @@ SQL Queries
 Tableau Public Dashboard
 
 Swiggy Revenue Dashboard 
---- (https://public.tableau.com/views/SwiggyRevenueDashboard/SwiggyRevenueDashboard)
+--(https://public.tableau.com/views/SwiggyRevenueDashboard/SwiggyRevenueDashboard)
 
 Data Story
-See DATA_STORY.md.
+See
+DATA_STORY.md.
 
 AI Log
-See ai_log.md.
+See
+ai_log.md.
