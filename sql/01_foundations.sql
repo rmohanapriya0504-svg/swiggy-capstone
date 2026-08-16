@@ -9,7 +9,7 @@ SELECT DISTINCT cuisine
 FROM restaurants;
 
 
--- ORDER BY + LIMIT
+-- ORDER BY and LIMIT
 SELECT *
 FROM orders
 ORDER BY amount_inr DESC
